@@ -1,0 +1,13 @@
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\obj\Debug\netcoreapp3.1\ConsoleAppE2.csprojAssemblyReference.cache
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\obj\Debug\netcoreapp3.1\ConsoleAppE2.AssemblyInfoInputs.cache
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\obj\Debug\netcoreapp3.1\ConsoleAppE2.AssemblyInfo.cs
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\obj\Debug\netcoreapp3.1\ConsoleAppE2.csproj.CoreCompileInputs.cache
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\bin\Debug\netcoreapp3.1\ConsoleAppE2.exe
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\bin\Debug\netcoreapp3.1\ConsoleAppE2.deps.json
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\bin\Debug\netcoreapp3.1\ConsoleAppE2.runtimeconfig.json
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\bin\Debug\netcoreapp3.1\ConsoleAppE2.runtimeconfig.dev.json
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\bin\Debug\netcoreapp3.1\ConsoleAppE2.dll
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\bin\Debug\netcoreapp3.1\ConsoleAppE2.pdb
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\obj\Debug\netcoreapp3.1\ConsoleAppE2.dll
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\obj\Debug\netcoreapp3.1\ConsoleAppE2.pdb
+C:\Users\Andrés Cano\source\repos\ConsoleAppE2\ConsoleAppE2\obj\Debug\netcoreapp3.1\ConsoleAppE2.genruntimeconfig.cache
